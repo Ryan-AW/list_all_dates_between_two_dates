@@ -3,7 +3,7 @@ A cli program written in python 3 that outputs all dates between two inputted da
 
 ## Usage
 ``` console
-python3 date_range.py <start_date> \end_date> [options]
+python3 date_range.py <start_date> <end_date> [options]
 ```
 
 ## options
